@@ -1,7 +1,15 @@
-This repository contains a final project completed for CSC-365: Introduction to Databases.
+This repository contains a final project completed for 
+CSC-365: Introduction to Databases.
 
-The project was developed in Jupyter Notebook using Python and SQLite. We used a publicly available football dataset from Kaggle to create tables and indexes, perform database queries, and generate several visualizations from the derived data.
+The project was developed in Jupyter Notebook using Python and SQLite. 
+We used a publicly available football dataset from Kaggle to create tables 
+and indexes, perform database queries, and generate several visualizations 
+from the derived data.
 
-We completed this project while studying abroad in Barcelona, which inspired us to choose a dataset related to both the local culture and a shared interest of ours: fútbol.
+We completed this project while studying abroad in Barcelona in the Spring 
+of 2025, which inspired us to choose a dataset related to both the local 
+culture and a shared interest of ours: fútbol.
 
-This repository is being shared for portfolio and archival purposes. The code is not actively maintained, and some components may require updates to run in a modern environment.
+This repository is being shared for portfolio and archival purposes. The code 
+is not actively maintained, and some components may require updates to run in 
+a modern environment.
