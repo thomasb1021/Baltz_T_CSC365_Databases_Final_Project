@@ -1,0 +1,4 @@
+*.pdf
+!365_Lab7_ERDiagram_Jones_Baltz.pdf
+*.sqlite
+*.db
