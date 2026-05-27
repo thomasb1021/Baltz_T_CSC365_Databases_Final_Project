@@ -2,7 +2,7 @@ This repository contains a final project completed for
 CSC-365: Introduction to Databases.
 
 The project was developed in Jupyter Notebook using Python and SQLite. 
-We used a publicly available football dataset from Kaggle to create tables 
+We used a publicly available [football dataset](https://www.kaggle.com/datasets/hugomathien/soccer) from Kaggle  to create tables 
 and indexes, perform database queries, and generate several visualizations 
 from the derived data.
 
